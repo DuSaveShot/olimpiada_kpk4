@@ -1,0 +1,81 @@
+C:\Users\User\source\repos\Olimpiada\Olimpiada\bin\Debug\Olimpiada.exe.config
+C:\Users\User\source\repos\Olimpiada\Olimpiada\bin\Debug\Olimpiada.exe
+C:\Users\User\source\repos\Olimpiada\Olimpiada\bin\Debug\Olimpiada.pdb
+C:\Users\User\source\repos\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Form1.resources
+C:\Users\User\source\repos\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Properties.Resources.resources
+C:\Users\User\source\repos\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Studenti.resources
+C:\Users\User\source\repos\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Olimpiada\Olimpiada\obj\Debug\Olimpiada.exe
+C:\Users\User\source\repos\Olimpiada\Olimpiada\obj\Debug\Olimpiada.pdb
+C:\Users\User\source\repos\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Prepod.resources
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\bin\Debug\Olimpiada.exe.config
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\bin\Debug\Olimpiada.exe
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\bin\Debug\Olimpiada.pdb
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Form1.resources
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Prepod.resources
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Properties.Resources.resources
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Studenti.resources
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.exe
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.pdb
+C:\Users\admin\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.AddOcenka.resources
+C:\Users\User\Desktop\Olimpiada\Olimpiada\bin\Debug\Olimpiada.exe.config
+C:\Users\User\Desktop\Olimpiada\Olimpiada\bin\Debug\Olimpiada.exe
+C:\Users\User\Desktop\Olimpiada\Olimpiada\bin\Debug\Olimpiada.pdb
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.AddOcenka.resources
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Form1.resources
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Prepod.resources
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Properties.Resources.resources
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Studenti.resources
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.ZavOtdel.resources
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.exe
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.pdb
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Srednyaya.resources
+C:\Users\User\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Sekretar.resources
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\bin\Debug\Olimpiada.exe.config
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\bin\Debug\Olimpiada.exe
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\bin\Debug\Olimpiada.pdb
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\bin\Debug\Guna.UI2.dll
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.AssemblyReference.cache
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.AddOcenka.resources
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Form1.resources
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Properties.Resources.resources
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Sekretar.resources
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Srednyaya.resources
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Studenti.resources
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.ZavOtdel.resources
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.GenerateResource.cache
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.CoreCompileInputs.cache
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.Up2Date
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.exe
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.pdb
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.F_Secretory.resources
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.F_Student.resources
+C:\Users\ГПОУ КПК\Desktop\Olimpiada\Olimpiada\obj\Debug\Olimpiada.F_Teacher.resources
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.AssemblyReference.cache
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.SuggestedBindingRedirects.cache
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.AddOcenka.resources
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Form1.resources
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.F_Secretory.resources
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.F_Student.resources
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.F_Teacher.resources
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Properties.Resources.resources
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.Studenti.resources
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.GenerateResource.cache
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.CoreCompileInputs.cache
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.exe
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.pdb
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\bin\Debug\Olimpiada.exe.config
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\bin\Debug\Olimpiada.exe
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\bin\Debug\Olimpiada.pdb
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\bin\Debug\Guna.UI2.dll
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.csproj.CopyComplete
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.F_Otdet.resources
+C:\Users\masha\source\repos\olimp_app\olimp_app\Olimpiada\Olimpiada\obj\Debug\Olimpiada.otdet_student.resources
